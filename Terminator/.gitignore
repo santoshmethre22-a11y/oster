@@ -1,0 +1,6 @@
+
+build/
+terminator
+*.o
+*.tmp
+.DS_Store
